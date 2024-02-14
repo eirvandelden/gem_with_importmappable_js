@@ -1,4 +1,4 @@
-# GemWithImportmappableJs
+# MyGem
 
 # TODO:
 - [ ] add pin for files to engine.rb as an after initialize

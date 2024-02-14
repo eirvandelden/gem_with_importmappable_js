@@ -1,2 +1,2 @@
-GemWithImportmappableJs::Engine.routes.draw do
+MyGem::Engine.routes.draw do
 end

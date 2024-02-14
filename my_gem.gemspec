@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/gem_with_importmappable_js/version"
+require_relative "lib/my_gem/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "gem_with_importmappable_js"
-  spec.version = GemWithImportmappableJs::VERSION
+  spec.name = "my_gem"
+  spec.version = MyGem::VERSION
   spec.authors = ["Etienne van Delden-de la Haije"]
   spec.email = ["etienne@vandelden.family"]
 

@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in gem_with_importmappable_js.gemspec
+# Specify your gem's dependencies in my_gem.gemspec
 gemspec
 
 gem "rake", "~> 13.0"
